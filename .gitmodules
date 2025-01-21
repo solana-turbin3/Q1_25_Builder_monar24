@@ -1,3 +1,6 @@
 [submodule "vault"]
 	path = vault
 	url = https://github.com/monar24/vault.git
+[submodule "sol-dao"]
+	path = sol-dao
+	url = https://github.com/denisandreenko/sol-dao
